@@ -1,3 +1,3 @@
-##Git Practice
+##Branch practice
 
-Learning branches, merge and pull
+This selection was created in feature/git-practice.
