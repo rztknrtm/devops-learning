@@ -1,3 +1,3 @@
-# DevOps Learning
+##Git Practice
 
-My first Git repository.
+Learning branches, merge and pull
